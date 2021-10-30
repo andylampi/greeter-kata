@@ -1,1 +1,1 @@
-# -greeter-kata
+# greeter-kata
